@@ -3,6 +3,7 @@ psk-puppet
 
 Puppet configuration exercise.
 
+```
 To run a Vagrant instance to check the configration. (I’ve only tested this on my Macbook) 
   $ git clone https://github.com/zwayhowder/psk-puppet.git
   $ cd Puppet-ex
@@ -17,3 +18,4 @@ To test in an existing host:
 
 Modify the manifest/site.pp to match your hostname.  
 
+```
